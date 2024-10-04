@@ -52,7 +52,7 @@ to jailbreak gpt-3.5-turbo on the subset of advbench:
 python run.py --openai_key [your openai_key] --model_path gpt-3.5-turbo --target_model gpt-3.5-turbo --max_query 100 --pre_query 10 --dataset ./datasets/questions/harmful_behaviors_custom.csv 
 ```
 ## eval
-set '''directory_path''' as the directory of result, then '''run eval.py''' to get the ASR and AQ.
+set `directory_path` as the directory of result, then `run eval.py` to get the ASR and AQ.
 
 ## Acknowledgement
 
