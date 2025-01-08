@@ -37,7 +37,7 @@ pip install anthropic  # for anthropic
 
 ## Datasets
 
-We have 3 avaible datasets to jailbreak:
+We have 3 available datasets to jailbreak:
 
 1. `datasets/questions/question_target_list.csv` : sampled from two public datasets: [llm-jailbreak-study](https://sites.google.com/view/llm-jailbreak-study) and [hh-rlhf](https://huggingface.co/datasets/Anthropic/hh-rlhf). Following the format of [GCG](https://github.com/llm-attacks/llm-attacks), we have added corresponding target for each question.
 2. `datasets/questions/question_target.csv`  : advbench.
