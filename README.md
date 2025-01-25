@@ -56,7 +56,7 @@ set `directory_path` as the directory of result, then `run eval.py` to get the A
 
 ## Acknowledgement
 
-This code is developed heavily relying on [GPTFuzz](https://github.com/Fictionarry/ER-NeRF), and also [PAIR](https://github.com/patrickrchao/jailbreakingllms). Thanks to these excellent works!
+This code is developed heavily relying on [GPTFuzz](https://github.com/sherdencooper/GPTFuzz), and also [PAIR](https://github.com/patrickrchao/jailbreakingllms). Thanks to these excellent works!
 
 ## Citation
 
