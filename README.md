@@ -1,7 +1,7 @@
-#  Effective-llm-jailbreak
+#  Papillon Effective-llm-jailbreak
 
 
-Official repo of paper [Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs (arxiv.org)](https://arxiv.org/abs/2409.14866)
+Official repo of paper [PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](https://arxiv.org/abs/2409.14866) (Usenix Security 2025)
 
 ## Overview
 
