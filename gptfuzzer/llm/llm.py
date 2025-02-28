@@ -304,7 +304,6 @@ class OpenAILLM(LLM):
         if model_path not in ['gpt-3.5-turbo', 'gpt-4']:
             raise ValueError(
                 'OpenAI model path should be gpt-3.5-turbo or gpt-4')
-        # if use proxy, try to add:
         self.client = OpenAI(api_key = api_key)
         self.model_path = model_path
         self.system_message = system_message if system_message is not None else "You are a helpful assistant."
