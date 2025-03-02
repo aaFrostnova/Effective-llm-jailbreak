@@ -141,7 +141,7 @@ if __name__ == "__main__":
     parser.add_argument('--seed_selection_strategy', type=str,
                         default='round_robin', help='The seed selection strategy')
     parser.add_argument("--seed_path", type=str,
-                        default="datasets/prompts/empty.csv")
+                        default="datasets/empty.csv")
     parser.add_argument("--pre_query",type=int, default=10,
                         help='The maximum number of pre queries')
     parser.add_argument("--dataset",type=str, default='./datasets/questions/harmful_behaviors_custom.csv',
